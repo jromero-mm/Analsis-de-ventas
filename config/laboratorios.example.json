@@ -1,0 +1,18 @@
+{
+  "_comentario": "Configuración ficticia de demostración. No representa una empresa.",
+  "regla_por_defecto": "todas",
+  "regla_total": "todas",
+  "overrides": {
+    "LABORATORIO DEMO": {
+      "regla": "todas",
+      "aliases": ["LABORATORIO DEMO"],
+      "metricas": ["CantE", "CantF", "TotalP"],
+      "productos": [],
+      "meta": 0,
+      "agrupar_productos": false,
+      "unidades_combinadas": false
+    }
+  },
+  "orden_preferido": ["LABORATORIO DEMO"],
+  "boticas_fijas": ["LOCAL 001", "LOCAL 002", "LOCAL 003"]
+}

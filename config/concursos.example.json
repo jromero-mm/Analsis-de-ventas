@@ -1,0 +1,11 @@
+{
+  "concursos": {
+    "CAMPAÑA DEMO": {
+      "laboratorio": "LABORATORIO DEMO",
+      "meta_soles": 1000,
+      "productos": [
+        {"nombre": "PRODUCTO A", "patrones": ["PRODUCTO A"], "cuota_cajas": 10, "unidades_por_caja": 10}
+      ]
+    }
+  }
+}

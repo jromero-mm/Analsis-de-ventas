@@ -1,0 +1,7 @@
+{
+  "DEMO": {
+    "laboratorios": ["LABORATORIO DEMO"],
+    "productos": {"LABORATORIO DEMO": ["PRODUCTO A", "PRODUCTO B", "PRODUCTO C"]},
+    "metricas": {"LABORATORIO DEMO": ["CantF"]}
+  }
+}

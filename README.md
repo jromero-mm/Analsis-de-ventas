@@ -40,6 +40,3 @@ powershell -ExecutionPolicy Bypass -File build_exe.ps1
 
 El ejecutable se genera en `dist/AnalisisVentasDemo`. La compilación requiere Python con Tkinter en Windows. Esta copia incluye una selección de pruebas genéricas; las pruebas dependientes de datos y reglas originales no se distribuyen.
 
-## Publicación
-
-Crear el repositorio únicamente dentro de esta carpeta, nunca en la carpeta superior que contiene el programa de trabajo. Revisar los archivos seleccionados antes del primer commit. No se ha publicado esta copia ni se le ha asignado una licencia: el autor puede elegirla antes de distribuirla.
